@@ -16,4 +16,4 @@ CHALLENGE: Μπορείς να απαντήσεις όλες τις ερωτήσ
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/droozle-game/master/temple.PNG)
+![alt tag](https://raw.githubusercontent.com/ponnynoob/droozle/main/temple.PNG)
